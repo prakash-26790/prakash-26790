@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![](https://komarev.com/ghpvc/?username=prakash-26790&abbreviated=true)
+
 <!--
 **prakash-26790/prakash-26790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
